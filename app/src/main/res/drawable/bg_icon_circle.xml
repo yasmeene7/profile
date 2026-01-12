@@ -1,0 +1,14 @@
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+
+    <!-- اللون الخلفي للزر -->
+    <solid android:color="#F5F5F5"/>
+
+    <!-- الحواف المستديرة -->
+    <corners android:radius="12dp"/>
+
+    <!-- البوردر الخارجي (اختياري) -->
+    <stroke
+        android:width="1dp"
+        android:color="#CCCCCC"/>
+</shape>
